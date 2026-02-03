@@ -41,7 +41,7 @@ I am currently expanding my focus onto cloud security architecture, threat model
   </tr>
 </table>
 
----
+--- 
 
 ## Featured Security Projects
 
@@ -97,22 +97,20 @@ Projects that reflect my approach to designing secure architectures and risk-inf
 
 ---
 
-## Writing & Links
+## Elsewhere
 
-- **LinkedIn:** https://www.linkedin.com/in/<your-handle>/
-- **GitHub:** https://github.com/<your-username>
+<p>
+  <a href="https://github.com/manojitnath">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/manojitnath/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://theriskmatrix.substack.com/">
+    <img alt="Substack" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />
+  </a>
+</p>
 
-Long-form writing and reflections are published externally; GitHub serves as the artifact and portfolio hub.
-
----
-
-## Background & Credentials
-
-- ~10 years in cybersecurity, risk, and governance
-- CISM – Certified Information Security Manager
-- ISO/IEC 27001 Lead Auditor
-- SC-900 – Security, Compliance, and Identity Fundamentals
-- CISSP (scheduled)
 
 ---
 
