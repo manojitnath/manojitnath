@@ -7,6 +7,8 @@
 
 I am currently expanding my focus onto cloud security architecture, threat modeling, and DevSecOps, applying risk-based judgment to cloud-native system design, trust boundaries, and security controls aligned with modern engineering and delivery practices.
 
+## Certifications
+
 <p>
 <a href="https://www.credly.com/badges/97ecb02a-87e6-459e-9f12-ec15bb67b704/public_url" target="_blank"><img alt="CISM" src="https://img.shields.io/badge/CISM--ISACA-343a40?style=for-the-badge" /></a>
 <a href="https://learn.microsoft.com/en-us/users/manojitnath-5303/credentials/b98f61174257f80e?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank"><img alt="SC-900" src="https://img.shields.io/badge/SC%20900--Microsoft%20Security-343a40?style=for-the-badge" /></a>
