@@ -69,7 +69,7 @@ Projects that reflect my approach to designing secure architectures and risk-inf
 
 ---
 
-## 📝 Featured Blog Posts
+## 📝 Recent Writing
 
 <ul>
   <li><a href="https://theriskmatrix.substack.com/p/placeholder-1"><b>Risk-Based Thinking in Cloud Security Architecture</b></a><br/><i>Applying risk management principles to cloud-native system design and trust boundaries.</i></li>
