@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m Manojit
 
 **`Senior Consultant – Cyber Risk, Strategy & Transformation`**
@@ -16,7 +15,6 @@ I am currently expanding my focus onto cloud security architecture, threat model
 <a href="https://www.credly.com/badges/6500e575-2623-4ab2-85d0-df3aed2471b1/linked_in_profile" target="_blank"><img alt="Industry Proficiency Foundation – Financial Services" src="https://img.shields.io/badge/Industry%20Proficiency%20Financial%20Services--Deloitte-438948?style=for-the-badge" /></a>
 </p>
 
-
 ## 🔐 Featured Security Projects
 
 Projects that reflect my approach to designing secure architectures and risk-informed systems.
@@ -32,7 +30,7 @@ Projects that reflect my approach to designing secure architectures and risk-inf
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/<your-username>/risk-to-controls-mapping">
+        <a href="https://github.com/manojitnath/risk-to-controls-mapping">
           <b>Risk-to-Control Mapping</b>
         </a>
       </td>
@@ -44,7 +42,7 @@ Projects that reflect my approach to designing secure architectures and risk-inf
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/<your-username>/security-architecture-reviews">
+        <a href="https://github.com/manojitnath/security-architecture-reviews">
           <b>Security Architecture Reviews</b>
         </a>
       </td>
@@ -56,7 +54,7 @@ Projects that reflect my approach to designing secure architectures and risk-inf
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/<your-username>/cyber-maturity-assessments">
+        <a href="https://github.com/manojitnath/cyber-maturity-assessments">
           <b>Cybersecurity Maturity Assessments</b>
         </a>
       </td>
@@ -80,7 +78,7 @@ Projects that reflect my approach to designing secure architectures and risk-inf
   <li><a href="https://theriskmatrix.substack.com/p/placeholder-4"><b>Third-Party Risk Management Beyond Questionnaires</b></a><br/><i>Moving from checkbox compliance to risk-informed vendor assessments.</i></li>
 </ul>
 
-<p>→ <a href="https://theriskmatrix.substack.com/">Read more here!</a></p>
+<p>→ <a href="https://theriskmatrix.substack.com/">View all articles</a></p>
 
 ---
 
@@ -94,5 +92,4 @@ Projects that reflect my approach to designing secure architectures and risk-inf
 
 ---
 
-#### Disclaimer
-All opinions and work shared here are my own and do not represent any past, current, or future employer.
+Disclaimer - All opinions and work shared here are my own and do not represent any past, current, or future employer.
