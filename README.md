@@ -10,8 +10,8 @@ I am currently expanding my focus onto cloud security architecture, threat model
 
 <p>
 <a href="https://www.credly.com/badges/97ecb02a-87e6-459e-9f12-ec15bb67b704/public_url" target="_blank"><img alt="CISM" src="https://img.shields.io/badge/CISM--ISACA-162b68?style=for-the-badge" /></a>
-<a href="https://learn.microsoft.com/en-us/users/manojitnath-5303/credentials/b98f61174257f80e?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank"><img alt="SC-900" src="https://img.shields.io/badge/SC%20900--Microsoft%20Security-2962af?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/manojitnath/details/certifications/" target="_blank"><img alt="ISO/IEC 27001 Lead Auditor" src="https://img.shields.io/badge/ISO%2FIEC%2027001%20Lead%20Auditor-2253a0?style=for-the-badge" /></a>
+<a href="https://learn.microsoft.com/en-us/users/manojitnath-5303/credentials/b98f61174257f80e?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank"><img alt="SC-900" src="https://img.shields.io/badge/SC%20900--Microsoft%20Security-2962af?style=for-the-badge" /></a>
 <a href="https://www.credly.com/badges/6500e575-2623-4ab2-85d0-df3aed2471b1/linked_in_profile" target="_blank"><img alt="Industry Proficiency Foundation – Financial Services" src="https://img.shields.io/badge/Industry%20Proficiency%20Financial%20Services--Deloitte-438948?style=for-the-badge" /></a>
 </p>
 
