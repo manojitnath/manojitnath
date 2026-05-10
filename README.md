@@ -4,7 +4,7 @@
 
 10+ years of experience driving cyber risk, strategy, and security architecture initiatives across diverse environments, with a background in cybersecurity program development, ISMS implementation and audit, NIST aligned assessments, cyber risk management, and cyber maturity evaluations across global standards and regulatory frameworks.
 
-I am currently expanding my focus onto cloud security architecture, threat modeling, and DevSecOps, applying risk-based judgment to cloud-native system design, trust boundaries, and security controls aligned with modern engineering and delivery practices.
+I am currently expanding my focus onto cloud security architecture, and DevSecOps, applying risk-based judgment to cloud-native system design, trust boundaries, and security controls aligned with modern engineering and delivery practices.
 
 ## 🎓 Certifications
 
