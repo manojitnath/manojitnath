@@ -20,53 +20,11 @@ I am currently expanding my focus onto cloud security architecture, DevSecOps, a
 
 Projects that reflect my approach to designing secure architectures and risk-informed systems.
 
-<table>
-  <thead align="left">
-    <tr>
-      <td><b>📌 Project</b></td>
-      <td><b>🧩 Focus / Stack</b></td>
-      <td><b>📝 Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/manojitnath/risk-to-controls-mapping">
-          <b>Risk-to-Control Mapping</b>
-        </a>
-      </td>
-      <td>ISO 27001, NIST CSF, Risk Management</td>
-      <td>
-        Mapping business and technical risks to security controls to identify coverage gaps
-        and support risk-informed decision-making.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/manojitnath/security-architecture-reviews">
-          <b>Security Architecture Reviews</b>
-        </a>
-      </td>
-      <td>Security Architecture, Risk Assessment</td>
-      <td>
-        Risk-focused reviews of system and vendor architectures evaluating trust boundaries,
-        control adequacy, and alignment to security objectives.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/manojitnath/cyber-maturity-assessments">
-          <b>Cybersecurity Maturity Assessments</b>
-        </a>
-      </td>
-      <td>NIST CSF, Maturity Models</td>
-      <td>
-        Cyber maturity assessments highlighting current-state gaps and priority improvement areas
-        across people, process, and technology.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<ul>
+<li><a href="https://github.com/manojitnath/risk-to-controls-mapping"><b>Risk-to-Control Mapping</b></a><br/><i>ISO 27001, NIST CSF, Risk Management — Mapping business and technical risks to security controls to identify coverage gaps and support risk-informed decision-making.</i></li>
+<li><a href="https://github.com/manojitnath/security-architecture-reviews"><b>Security Architecture Reviews</b></a><br/><i>Security Architecture, Risk Assessment — Risk-focused reviews of system and vendor architectures evaluating trust boundaries, control adequacy, and alignment to security objectives.</i></li>
+<li><a href="https://github.com/manojitnath/cyber-maturity-assessments"><b>Cybersecurity Maturity Assessments</b></a><br/><i>NIST CSF, Maturity Models — Cyber maturity assessments highlighting current-state gaps and priority improvement areas across people, process, and technology.</i></li>
+</ul>
 
 ---
 
