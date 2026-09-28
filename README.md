@@ -10,7 +10,7 @@ I am currently expanding my focus onto cloud security architecture, DevSecOps, a
 
 * **CISSP** — ISC² • [Verify Credential](https://credly.com)
 * **CISM** — ISACA • [Verify Credential](https://credly.com)
-* **ISO/IEC 27001 Lead Auditor** — Exemplar Global / BSI • [Verify Credential](https://linkedin.com)
+* **ISO/IEC 27001 Lead Auditor** — TÜV SÜD • [Verify Credential](https://linkedin.com)
 * **SC-900:** Microsoft Security, Compliance, and Identity Fundamentals • [Verify Credential](https://microsoft.com)
 * **Industry Proficiency Foundation:** Financial Services — Deloitte • [Verify Credential](https://credly.com)
 
