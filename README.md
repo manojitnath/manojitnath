@@ -16,6 +16,16 @@ I am currently expanding my focus onto cloud security architecture, DevSecOps, a
 <a href="https://www.credly.com/badges/6500e575-2623-4ab2-85d0-df3aed2471b1/linked_in_profile" target="_blank"><img alt="Industry Proficiency Foundation – Financial Services" src="https://img.shields.io/badge/Industry%20Proficiency%20Financial%20Services--Deloitte-438948?style=for-the-badge" /></a>
 </p>
 
+
+## 🏆 Certifications
+
+| Certification | Issuer | Badge | Verification |
+| :--- | :--- | :---: | :---: |
+| **AWS Certified Solutions Architect** | Amazon Web Services | ![AWS](https://shields.io) | [Verify](https://your-credly-link) |
+| **Google Cloud Digital Leader** | Google Cloud | ![GCP](https://shields.io) | [Verify](https://your-credly-link) |
+| **Certified Kubernetes Administrator (CKA)** | The Linux Foundation | ![Kubernetes](https://shields.io) | [Verify](https://your-credly-link) |
+
+
 ## 🔐 Featured Security Projects
 
 Projects that reflect my approach to designing secure architectures and risk-informed systems.
